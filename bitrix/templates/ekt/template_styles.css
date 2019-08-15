@@ -1,0 +1,6 @@
+#bx-panel{
+    position: absolute!important;
+    top: 0!important;
+    width: 100%!important;
+    z-index: 1200!important;
+}
